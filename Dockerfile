@@ -25,6 +25,7 @@ RUN \
         libatspi2.0-0 \
         libsecret-1-0 \
         libnss3 \
+        fonts-noto-color-emoji \
         # https://github.com/rsmacapinlac/docker-obsidian/issues/5
         python3-xdg \
         && \
